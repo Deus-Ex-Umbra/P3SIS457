@@ -1,0 +1,3 @@
+C:\Users\USUARIO\Desktop\P3SIS457\Intermediate\Build\Win64\UE4Editor\Development\P3SIS457\Definitions.P3SIS457.h
+C:\Users\USUARIO\Desktop\P3SIS457\Source\P3SIS457\Lapiz.h
+C:\Users\USUARIO\Desktop\P3SIS457\Intermediate\Build\Win64\UE4Editor\Inc\P3SIS457\Lapiz.generated.h

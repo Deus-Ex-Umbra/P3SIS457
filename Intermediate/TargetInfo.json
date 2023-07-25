@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "P3SIS457",
+			"Path": "C:\\Users\\USUARIO\\Desktop\\P3SIS457\\Source\\P3SIS457.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "P3SIS457Editor",
+			"Path": "C:\\Users\\USUARIO\\Desktop\\P3SIS457\\Source\\P3SIS457Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

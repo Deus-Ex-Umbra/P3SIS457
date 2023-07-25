@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\P3SIS457.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{77D8C80E-38B2-4CD4-889F-CB05F8798CC4}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\P3SIS457.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\P3SIS457Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{89310455-CE90-4352-AD86-BF80985A4E3A}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\P3SIS457">
+      <UniqueIdentifier>{94CFBDED-965B-4756-AF41-43A2C2EFC64C}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\P3SIS457\FabricaDeLapiz.cpp">
+      <Filter>Source\P3SIS457</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\P3SIS457\FabricaDeLapiz.h">
+      <Filter>Source\P3SIS457</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\P3SIS457\Lapiz.cpp">
+      <Filter>Source\P3SIS457</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\P3SIS457\Lapiz.h">
+      <Filter>Source\P3SIS457</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\P3SIS457\LapizAzul.cpp">
+      <Filter>Source\P3SIS457</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\P3SIS457\LapizAzul.h">
+      <Filter>Source\P3SIS457</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\P3SIS457\LapizNegro.cpp">
+      <Filter>Source\P3SIS457</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\P3SIS457\LapizNegro.h">
+      <Filter>Source\P3SIS457</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\P3SIS457\LapizRojo.cpp">
+      <Filter>Source\P3SIS457</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\P3SIS457\LapizRojo.h">
+      <Filter>Source\P3SIS457</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\P3SIS457\P3SIS457.Build.cs">
+      <Filter>Source\P3SIS457</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\P3SIS457\P3SIS457.cpp">
+      <Filter>Source\P3SIS457</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\P3SIS457\P3SIS457.h">
+      <Filter>Source\P3SIS457</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\P3SIS457\P3SIS457GameModeBase.cpp">
+      <Filter>Source\P3SIS457</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\P3SIS457\P3SIS457GameModeBase.h">
+      <Filter>Source\P3SIS457</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

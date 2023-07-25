@@ -1,0 +1,7 @@
+C:\Users\USUARIO\Desktop\P3SIS457\Intermediate\Build\Win64\UE4Editor\Development\P3SIS457\Definitions.P3SIS457.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\USUARIO\Desktop\P3SIS457\Source\P3SIS457/LapizNegro.h
+C:\Users\USUARIO\Desktop\P3SIS457\Source\P3SIS457\Lapiz.h
+C:\Users\USUARIO\Desktop\P3SIS457\Intermediate\Build\Win64\UE4Editor\Inc\P3SIS457\Lapiz.generated.h
+C:\Users\USUARIO\Desktop\P3SIS457\Intermediate\Build\Win64\UE4Editor\Inc\P3SIS457\LapizNegro.generated.h
